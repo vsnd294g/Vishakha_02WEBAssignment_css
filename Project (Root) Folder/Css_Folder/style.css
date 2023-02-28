@@ -1,0 +1,54 @@
+
+body {
+			background:rgb(215,215, 255); 
+			margin:auto;
+
+		}
+
+.tabs{background-color: black; border-radius: 50px 50px 0px 50px;}
+button div{cursor: pointer; display: inline-block; position: relative; transition: 0.5s;}
+
+div {
+    display:inline-block; width:188px ; height:20px; background:#f5cf6e ; padding:20px; border:3px solid black; color: white; font-size: 18px; border-radius: 50px 50px 0px 50px;
+}
+
+
+
+
+section {background-color:white; border-radius: 0px 0px 0px 50px;}
+.quote{ background: white; text-align: center; float:left; width:1100px; height:90px; font-size:40px; font-style:italic; padding-top:10px; margin:inherit; color: mediumblue}
+
+img {width:100px; height:100px; float:left;}
+
+
+.para{background-image:url(../Image_Folder/pattern.jpg); background-repeat: no-repeat;background-attachment:scroll; background-size: 1200px; width: 1200px; margin-top:08%; padding:1%; }
+
+.publicity {
+		background:rgb(255,255,255);
+		float:left;
+		width:29.3%;
+		padding:0.4%;
+		height:350px;
+
+		}
+.publicity h1{color: orangered; text-align: center; background: yellow;}
+#week {text-align: right;}
+
+
+.last { text-align: center; margin-top:10%; }
+#join {background: black;width:150px ; height:60px}
+#join #lastbutton { background-color:lawngreen; border-radius: 0px 0px 0px 0px; cursor: pointer;  width:100px ; height:20px; font-size: 18px;}
+
+footer{
+		text-alighn:center;
+		background:rgb(175,175,175);
+		clear:left;
+		padding:10px;
+    font-size: 15px;
+    text-align: center;
+    
+		}
+
+
+		
+h2  {color:white; font-style: italic;opacity:1; padding-top: 50px; padding-right: 10%; }
